@@ -1,0 +1,2 @@
+# Trabalho-SO
+Avalição 
